@@ -16,6 +16,7 @@ I keep the PDFs here so I can grep formulas, revisit algorithms, and point frien
 | 5 | **[math4ml.pdf](./math4ml.pdf)** | Linear algebra, calculus and probability essentials explained for ML practitioners, loaded with intuitive worked examples. |
 | 6 | **[openAI guide to building practical agents](./openAI%20guide%20to%20building%20practical%20agents.pdf)** | Design patterns, orchestration tricks and guardrails for shipping real-world AI agents with the OpenAI tool-chain. |
 | 7 | **[pen and paper exercise in ML](./pen%20and%20paper%20exercise%20in%20ML.pdf)** | A workbook of theory-first problems (with solutions) to deepen mathematical intuition—no keyboard required. |
+| 8 | **[matrixcookbook](./matrixcookbook.pdf)** | A concise “cheat-sheet” of hundreds of matrix identities, derivatives, decompositions, and statistical formulas you’ll reach for whenever linear-algebra algebra gets hairy; perfect as a desktop reference to speed up proofs and ML math. |
 
 ---
 
