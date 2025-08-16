@@ -18,7 +18,11 @@ I keep the PDFs here so I can grep formulas, revisit algorithms, and point frien
 | 7 | **[Pen and paper exercise in ML](./7.pen%20and%20paper%20exercise%20in%20ML.pdf)** | A workbook of theory-first problems (with solutions) to deepen mathematical intuition—no keyboard required. |
 | 8 | **[Matrixcookbook](./8.matrixcookbook.pdf)** | A concise “cheat-sheet” of hundreds of matrix identities, derivatives, decompositions, and statistical formulas you’ll reach for whenever linear-algebra algebra gets hairy; perfect as a desktop reference to speed up proofs and ML math. |
 | 9 |**[Finetuning guide](./9.finetuning%20guide.pdf)** | The Ultimate Guide to Fine-Tuning LLMs from Basics to Breakthroughs: An Exhaustive Review of Technologies, Research, Best Practices, Applied Research Challenges and Opportunities. |
-| 9 |**[MULTI-AGENT REINFORCEMENT LEARNING](./10.marl-book.pdf)** | A definitive introduction to multi-agent reinforcement learning, this book blends game theory and deep learning to offer both foundational insights and cutting-edge research—ideal for newcomers and experts alike. | 
+| 10 |**[MULTI-AGENT REINFORCEMENT LEARNING](./10.marl-book.pdf)** | A definitive introduction to multi-agent reinforcement learning, this book blends game theory and deep learning to offer both foundational insights and cutting-edge research—ideal for newcomers and experts alike. | 
+| 11 |**[Context Engineering](./11.context-engineering.pdf)** | A comprehensive 150+ pages survey on context engineering|
+| 12 |**[Linear Algebra Essence and form book](./12.LAEF.pdf)** | A linear algebra book that connects to concepts in AI |
+ 
+
 
 ---
 
