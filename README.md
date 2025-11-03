@@ -1,7 +1,7 @@
 # 📚 AI / ML Bookshelf
 
 Welcome to my personal reference shelf of **freely shareable** AI & Machine-Learning books.  
-I keep the PDFs here so I can grep formulas, revisit algorithms, and point friends—or Twitter followers—straight to the good stuff.
+I keep the PDFs here so I can grep formulas, revisit algorithms, and point friends straight to the good stuff.
 
 ---
 
@@ -21,6 +21,7 @@ I keep the PDFs here so I can grep formulas, revisit algorithms, and point frien
 | 10 |**[MULTI-AGENT REINFORCEMENT LEARNING](./10.marl-book.pdf)** | A definitive introduction to multi-agent reinforcement learning, this book blends game theory and deep learning to offer both foundational insights and cutting-edge research—ideal for newcomers and experts alike. | 
 | 11 |**[Context Engineering](./11.context-engineering.pdf)** | A comprehensive 150+ pages survey on context engineering|
 | 12 |**[Linear Algebra Essence and form book](./12.LAEF.pdf)** | A linear algebra book that connects to concepts in AI |
+| 13 |**[Machine Learning Systems](./13.Machine-Learning-Systems.pdf)** | A comprehensive, up-to-date guide from Harvard on ML Systems Engineering — covering everything from deep learning foundations to distributed training, model optimization, and emerging AGI-scale systems. |
  
 
 
